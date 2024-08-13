@@ -1,2 +1,2 @@
 # TableOperations
-A mind game
+A mind game made for the Türkiye Intelligence Foundation
